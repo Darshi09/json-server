@@ -1,48 +1,22 @@
 {
   "products": [
     {
-      "id": "1",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICffgP7Um7m-CzLqLNozBPsgPqAvsxv2PrQ&s",
-      "title": "Tshirt",
-      "price": 456
-    },
-    {
       "id": "2",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEeyYC4Qbk46-F3xcmCTA81zQbYuY5o8hrg&s",
       "title": "shirt",
       "price": 700
     },
     {
-      "id": "6667",
-      "title": "cup",
-      "price": "150"
+      "id": "e6b7",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjr2UPAL3tCDpeYU-ohk-WKH2o8UXmFUvAA&s",
+      "title": "heels",
+      "price": "14890"
     },
     {
-      "id": "c7bf",
-      "title": "polaroid photos",
-      "price": "1000"
-    },
-    {
-      "id": "ae0f",
-      "title": "jacket",
-      "price": "1900"
-    },
-    {
-      "id": "0484",
-      "title": "pen",
-      "price": "50"
-    },
-    {
-      "id": "915f",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_LAKWe29DvMg2d_3LkTlllWQmWIbiZWokw&s",
-      "title": "watch",
-      "price": "5300"
-    },
-    {
-      "id": "42bc",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_LAKWe29DvMg2d_3LkTlllWQmWIbiZWokw&s",
-      "title": "camera",
-      "price": "1234"
+      "id": "e44a",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT090-HwNpxUi85BcaWWYcLy_UivfnoMAp9CA&s",
+      "title": "footware",
+      "price": "1470"
     }
   ]
 }
