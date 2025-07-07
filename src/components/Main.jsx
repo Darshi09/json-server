@@ -3,6 +3,7 @@ import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router'
 
+
 const Main = () => {
     const [data, setData] = useState([])
     const [productdata, setProductdata] = useState({ img: "", title: "", price: "" })
