@@ -1,22 +1,39 @@
 {
   "products": [
     {
-      "id": "2",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEeyYC4Qbk46-F3xcmCTA81zQbYuY5o8hrg&s",
-      "title": "shirt",
-      "price": 700
-    },
-    {
       "id": "e6b7",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjr2UPAL3tCDpeYU-ohk-WKH2o8UXmFUvAA&s",
-      "title": "heels",
-      "price": "14890"
+      "title": "royal heels",
+      "price": "14890",
+      "category":"Girls"
     },
     {
       "id": "e44a",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT090-HwNpxUi85BcaWWYcLy_UivfnoMAp9CA&s",
-      "title": "footware",
-      "price": "1470"
+      "title": "marriage footware",
+      "price": "147000",
+      "category":"Girls"
+    },
+    {
+      "id": "d7ef",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8dSXZlA1U5UlkVM5-2NMTsdsq6Q1Y21Lb_g&s",
+      "title": "transparent heels",
+      "price": "11290",
+      "category":"Girls"
+    },
+    {
+      "id": "e9d4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXT7unjji9Gc5iLPcXvInOcFPUjPvsAa6Apw&s",
+      "title": "shoes",
+      "price": "1000000",
+      "category":"Boys"
+    },
+    {
+      "id": "69e9",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStS6yfljFcMVY2OFUOZDSzf6q_rRFcUlqwyA&s",
+      "title": "s",
+      "price": "1323",
+      "category":"Boys"
     }
   ]
 }
